@@ -13,3 +13,10 @@ Superstore Sales Analysis | SQL - Excel - Power BI - BigQuery
 - Discovered that orders with discounts above 20% consistently
   generated negative profit.
 
+ -->Dashboard Preview:
+ Sales_Dashboard(1).png
+ Sales_Dashboard(2).png
+ Sales_Dashboard(3).png
+  
+ 
+
